@@ -1,5 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import test from './test.html';
+
+console.log(test);
 
 function App() {
   return (
